@@ -7,6 +7,7 @@ The purpose of this notebook is to develop a Logical Regression Model using mach
 ## Results
 
 After fitting and training the data provided, a confusion matrix was created with the following results:
+
 Confusion Matrix:
 [[18679    80]
  [   67   558]]
@@ -25,4 +26,4 @@ With a 99% overall accuracy, we can say that the model achieved its goal of crea
 
 ## Summary
 
-Overall, the model has a very high accuracy rate in determining the status of someone's loans.
+Overall, the model has a very high accuracy rate in determining the status of someone's loans. Due to it's high accuracy, we can easily say that the model can be recommended to lendors.
